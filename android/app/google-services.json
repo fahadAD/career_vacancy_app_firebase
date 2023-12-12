@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743988525110",
+    "project_id": "career-project-firebase",
+    "storage_bucket": "career-project-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743988525110:android:f1d3ed34681e354999c097",
+        "android_client_info": {
+          "package_name": "com.careertheme.career_project_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuggBYlva6s-6iAvQhkd_Jq_VWKiIZBn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
